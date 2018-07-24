@@ -1,0 +1,5 @@
+AuthName "ENTER CREDENTIALS"
+AuthType Basic
+AuthUserFile /customers/d/5/3/meanruse.github.io/httpd.www/.htpasswd
+AuthGroupFile /dev/null 
+require valid-user
